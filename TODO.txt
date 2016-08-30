@@ -1,0 +1,4 @@
+﻿1. Authentication and verification of subscription.
+2.reconnect mechanisim
+3. clean up process (with keep alive?) -done- keep alive from server so client won't have to implement.
+4. redundancy - passive -future.
